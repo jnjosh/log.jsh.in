@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: "@jnjosh"
+subtitle: Mac and iOS Developer in Raleigh-Durham, NC
+author: Josh Johnson
 simple_search: http://google.com/search
 description:
 
@@ -36,7 +36,7 @@ category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 3          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -58,18 +58,18 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: jnjosh
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: jnjosh
+twitter_tweet_count: 0
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
