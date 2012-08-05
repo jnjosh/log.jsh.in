@@ -1,0 +1,12 @@
+/* TEAM */
+Designer:     Josh Johnson
+Developer:    Josh Johnson
+Contact:      jnjosh@jnjosh.com
+Twitter:      @jnjosh
+Facebook:     http://facebook.com/samsoffes
+
+/* SITE */
+Last update:  08/05/2012
+Language:     English
+Doctype:      HTML5
+Tools:        Octopress w/ custom theme, HTML, CSS, Javascript

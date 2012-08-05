@@ -1,0 +1,44 @@
+---
+layout: page
+title: Archives
+footer: false
+---
+
+
+  <h2>Post Archive</h2>
+
+  <hr />
+
+  {% for post in site.posts reverse %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% unless year == this_year %}
+      {% assign year = this_year %}
+      {% if is_first %}
+        {% assign is_first = false %}
+      {% else %}
+      </ul>
+      {% endif %}
+
+      <h3>{{ year }}</h3>
+      <ul>
+    {% endunless %}
+
+      <li>
+        {% if post.external-url %}
+        &rarr; <a rel="external-url" href="{{ post.external-url }}">
+        {% else %}
+        <a href="{{ post.url }}">
+        {% endif %}
+          <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>
+          {{ post.date | date: "<span class='month'>%B</span> <span class='day'>%d</span>"}}
+          </time>
+          &mdash;
+          {{ post.title }}
+        </a>
+        {% if post.external-url %}
+          <a href="{{ post.url }}">&infin;</a>
+        {% endif %}
+      </li>
+  {% endfor %}
+

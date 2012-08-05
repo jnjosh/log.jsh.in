@@ -1,5 +1,12 @@
 @import "compass";
+@import "utilities";
 
-@import "base";
-@import "parts";
-@import "plugins";
+/* pullquote */
+@import "pullquote";
+
+/* syntax highlight */
+@import "custom-colors";
+@import "solarized";
+@import "syntax";
+
+

@@ -1,18 +1,36 @@
 ---
-layout: default
+layout: page
+is_top: true
 ---
+{% capture has_category %}{{ page.categories | category_links | size }}{% endcapture %}
 
-{% assign index = true %}
 {% for post in paginator.posts %}
-{% assign content = post.content %}
-    <article class="post">{% include article.html %}</article>
+
+<article>
+  {% if post.external-url %}
+  <h2>&rarr; <a rel="external-url" href="{{ post.external-url }}">{{ post.title }}</a></h2>
+  {% else %}
+  <h2><a rel="full-article" href="{{ post.url }}">{{ post.title }}</a></h2>
+  {% endif %}
+
+  <div class="postmeta">Posted on <time datetime="{{post.date}}" pubdate>{{post.date_formatted}}</time> in 
+    <span class="categories">
+      {{ post.categories | category_links }}
+    </span>
+    {% if post.external-url %}<a rel="full-article" href="{{ post.url }}">&infin;</a>{% endif %}
+  </div>
+  
+  <p>{{ post.content | excerpt }}</p>
+  
+  {% if post.external-url %}
+  {% else %}
+  <a rel="full-article" href="{{ post.url }}">Continue Reading »</a>
+  {% endif %}
+  
+</article>
+
 {% endfor %}
-<nav id="pagenavi">
-    {% if paginator.previous_page %}
-        <a href="{{paginator.previous_page}}" class="prev">Prev</a>
-    {% endif %}
-    {% if paginator.next_page %}
-        <a href="{{paginator.next_page}}" class="next">Next</a>
-    {% endif %}
-    <div class="center"><a href="{{ root_url }}/blog/archives">Blog Archives</a></div>
-</nav>
+
+<div id="more">
+  <a href="{{ root_url }}/posts">Blog Archives »</a>
+</div>

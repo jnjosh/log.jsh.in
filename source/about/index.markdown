@@ -1,13 +1,12 @@
 ---
 layout: page
-title: 
+title: About Josh
 date: 2012-07-17 01:04
-comments: false
-sharing: false
-footer: true
 ---
 
 ## About Me
+
+---
 
 Hi, I'm Josh Johnson. I'm a software developer, wannabe designer, filmmaker, and podcaster living in Raleigh, NC with my wife, my two teenagers (!), a comfort retriever named Ruby, and two cats. I've been developing software since I was about 10 when my Dad gave me a Macintosh Plus with some form of BASIC. I still have that Macintosh to this day; and it works.
 
@@ -17,6 +16,6 @@ When not writing code or with my family, you can [find me podcasting about B-mov
 
 ## About this Blog
 
-This is a personal blog. Most of the time it will be about Cocoa-related topics, but I usually have a lot of different interests that could find a way here. Lately, a lot of other Mac and iPhone Developers have taken their thoughts back to their blogs. Why not play along?
+---
 
-Technically, this blog is a baked blog. It is written in pure HTML/CSS/Javascript with the help of the [Octopress](http://octopress.org). The '@' symbol comes from [Pictos](http://pictos.drewwilson.com/).
+This is a personal blog. Most of the time it will be about Cocoa-related topics, but I usually have a lot of different interests that could find a way here. It is written in HTML/CSS/Javascript with the help of the [Octopress](http://octopress.org).

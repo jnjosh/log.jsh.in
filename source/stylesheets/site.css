@@ -1,0 +1,156 @@
+/*
+#476286
+#9BA8BA
+#5B636E
+#6388BA
+#31353B 
+*/
+
+body {
+	background: url('../images/light_toast.png') left top repeat;
+	font: 16px/24px "Helvetica Neue", Arial, Helvetica, sans-serif;
+	line-height: 24px;
+	margin: 0;
+}
+
+a[href] {
+	color: #476286;
+	text-decoration: none;
+}
+
+#page {
+	margin: 0 0 40px 0;
+}
+
+#content, #archive {
+	text-shadow: #ffffff 0 1px 0;
+}
+
+#archive ul {
+	list-style: none;
+	margin: -42px 0 40px 0;
+}
+
+#archive li {
+	margin: 0 0 0 20px;
+}
+
+header {
+	margin: 60px auto;
+	text-shadow: #ffffff 0 1px 0;
+}
+
+header h1 {
+	text-align: left;
+	vertical-align: middle;
+	font-size: 30px;
+	line-height: 32px;
+}
+
+#page {
+	color: #555555;
+}
+
+#page h2 {
+	color: #5B636E;
+	width: 100%;
+	text-align: left;
+}
+
+article {
+	color: #555555;
+	margin: 0 0 50px 0;
+}
+
+article h2 {
+	line-height: 28px;
+	padding: 0;
+	margin: 0;
+}
+
+article .postmeta {
+	line-height: 22px;
+	color: #999999;
+	margin: 0;
+	padding: 5px 0 0 0;
+}
+
+.postcontent h1 {
+	color: #5B636E;
+	width: 100%;
+	text-align: left;
+	padding-bottom: 5px;
+	border-bottom: 1px #9BA8BA solid;
+}
+
+.postcontent blockquote {
+	color: #5B636E;
+	width: 100%;
+	padding: 10px 0 10px 20px;
+	border-left: 4px #9BA8BA solid;
+}
+
+.postcontent img {
+	display: block;
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+@media all and (max-width: 660px) {
+	.postcontent img {
+		display: block;
+		margin: 0 auto;
+		max-width: 300px;
+	}
+}
+
+#more {
+	margin: 40px 0 40px 0;
+	text-align: center;
+}
+
+footer {
+	background: #333333 url('../images/footer_bg.png') left top repeat-x;
+	color: #ffffff;
+}
+
+footer a[href] {
+	color: #cccccc;
+}
+
+footer h3 {
+	color: #cccccc;
+	text-shadow: #000000 0 -1px 0;
+
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+footer .footer-text {
+	margin: 0px auto;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	color: #555555;
+	font: 12px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.footer-text a {
+	color: #555555;
+}
+
+#flickr_results img {
+	margin: 0 2px 2px 0;
+	border: 4px solid #cccccc; 
+	width: 90px;
+	cursor: pointer;
+}
+
+#flickr_results img :last-child {
+	margin: 0 0 2px 0;
+}
+
+#flickr_results img:hover { 
+	border: 4px solid #999999; 
+}
