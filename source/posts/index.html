@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Archives
+title: Post Archive
 footer: false
 ---
-
 
   <h2>Post Archive</h2>
 
@@ -26,14 +25,18 @@ footer: false
 
       <li>
         {% if post.external-url %}
-        &rarr; <a rel="external-url" href="{{ post.external-url }}">
+        <a rel="external-url" href="{{ post.external-url }}">
         {% else %}
         <a href="{{ post.url }}">
         {% endif %}
           <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>
           {{ post.date | date: "<span class='month'>%B</span> <span class='day'>%d</span>"}}
           </time>
+          {% if post.external-url %}
+          &rarr;
+          {% else %}
           &mdash;
+          {% endif %}
           {{ post.title }}
         </a>
         {% if post.external-url %}
