@@ -6,7 +6,7 @@ comments: false
 categories: [iPhone, Apps]
 ---
 
-_A few months ago I spent a weekend and built a small app for the show my friend do every week, [The Bad Movie Podcast](http://badmoviepodcast.com). Then I sat on it for several months, only tweaking it occasionally. Deep down I thought there was no way Apple would approve it due to the nature of the show. Thankfully, a few people informed me that I was silly and should "Roll the Dice"._
+_A few months ago I spent a weekend and built a small app for the show my friend and I do every week, [The Bad Movie Podcast](http://badmoviepodcast.com). Then I sat on it for several months, only tweaking it occasionally. Deep down I thought there was no way Apple would approve it due to the nature of the show. Thankfully, a few people informed me that I was silly and should "Roll the Dice"._
 
 <!-- more -->
 
