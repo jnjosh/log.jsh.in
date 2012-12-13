@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UIActivity for Google Maps App"
+title: "JNJGoogleMapsActivity: UIActivity for Google Maps App"
 date: 2012-12-13 01:39
 comments: false 
 categories: [Cocoa, Objective-C, Open-Source]
