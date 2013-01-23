@@ -4,6 +4,7 @@ title: "JNJGoogleMapsActivity: UIActivity for Google Maps App"
 date: 2012-12-13 01:39
 comments: false 
 categories: [Cocoa, Objective-C, Open-Source]
+external-url: "https://github.com/jnjosh/JNJGoogleMapsActivity"
 ---
 
 At our October [CocoaHeads](http://meetup.trianglecocoa.com) I gave a small talk on using UIActivity to create nice little wrappers around your application's URL Schemes. I wanted to look for an app to implement a quick version of this on, but got busy and forgot.
