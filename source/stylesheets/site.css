@@ -154,3 +154,9 @@ footer .footer-text {
 #flickr_results img:hover { 
 	border: 4px solid #999999; 
 }
+
+#dvorak {
+	margin: 0 auto;
+	width: 600px;
+	height: 300px;
+}
