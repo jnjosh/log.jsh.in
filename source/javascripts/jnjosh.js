@@ -90,7 +90,7 @@ jnjosh.application = function() {
 			cnt = 0;
 
 		$.each(data.items, function(i,item){
-			if (cnt > 5) return;
+			if (cnt > 2) return;
 			htmlString += "<a class=\"flickr-box\" href=\"" + (item.media.m).replace("_m.jpg", ".jpg") + "\"><img src=\"" + (item.media.m).replace("_m.jpg", "_s.jpg") + "\" /></a>";
 			cnt++;
 		});

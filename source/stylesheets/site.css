@@ -7,7 +7,7 @@
 */
 
 body {
-	background: url('../images/light_toast.png') left top repeat;
+	background-color: #fefefe;
 	font: 16px/24px "Helvetica Neue", Arial, Helvetica, sans-serif;
 	line-height: 24px;
 	margin: 0;
@@ -110,7 +110,7 @@ article .postmeta {
 }
 
 footer {
-	background: #333333 url('../images/footer_bg.png') left top repeat-x;
+  background-color: #555555;
 	color: #ffffff;
 }
 
@@ -132,7 +132,7 @@ footer .footer-text {
 	margin: 0px auto;
 	padding: 10px 0 10px 0;
 	text-align: center;
-	color: #555555;
+	color: #999999;
 	font: 12px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 
