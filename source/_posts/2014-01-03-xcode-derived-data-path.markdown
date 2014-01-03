@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xcode Derived Data Path"
+title: "Xcode Build Settings Script"
 date: 2014-01-03 13:33
 comments: false
 categories: [Xcode, Ruby]
