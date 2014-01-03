@@ -91,7 +91,7 @@ jnjosh.application = function() {
 
 		$.each(data.items, function(i,item){
 			if (cnt > 2) return;
-			htmlString += "<a class=\"flickr-box\" href=\"" + (item.media.m).replace("_m.jpg", ".jpg") + "\"><img src=\"" + (item.media.m).replace("_m.jpg", "_s.jpg") + "\" /></a>";
+			htmlString += "<a class=\"flickr-box\" href=\"" + (item.media.m).replace("_m.jpg", "_b.jpg") + "\"><img src=\"" + (item.media.m).replace("_m.jpg", "_s.jpg") + "\" /></a>";
 			cnt++;
 		});
 
