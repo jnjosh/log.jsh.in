@@ -106,10 +106,18 @@ article .postmeta {
   max-width: 580px;
 }
 
-.postcontent img {
+.postcontent img, figure {
 	display: block;
 	margin: 0 auto;
 	max-width: 760px;
+}
+
+figcaption {
+  font-size: 13px;
+  color: #555555;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
 }
 
 .postcontent p, article p, .postcontent h3, .postcontent h4, .postcontent ul {
