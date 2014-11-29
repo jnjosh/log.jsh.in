@@ -58,8 +58,9 @@ header h1 {
 	vertical-align: middle;
 	font-size: 30px;
 	line-height: 32px;
-  margin: 0 auto;
-  max-width: 660px;
+    margin: 0 auto;
+    max-width: 660px;
+    color: #5B636E;
 }
 
 #page {
