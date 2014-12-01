@@ -31,6 +31,7 @@ I'm actually surprised that I don't use that many tools.
 - [__BBEdit__](http://www.barebones.com/products/bbedit/) - I switched to using BBEdit. I've tried it several times in the past, but was convinced to try it again. Now it's part of my daily tools.
 - [__Kaleidoscope 2__](http://www.kaleidoscopeapp.com/) - Whenever I push new commits to Github, I check them out first in Kaleidoscope first. 
 - [__Transmit__](http://panic.com/transmit/) - Still the best tool for uploading via FTP or to S3. 
+- [__Dash__](http://kapeli.com/dash) - _Update: Can't believe I forgot this!_ Dash is the best tool for reading documentation. I use it so much it was really easy to forget. It feels like it is a part of the system.
 
 #### Other Software and Utilities ####
 
