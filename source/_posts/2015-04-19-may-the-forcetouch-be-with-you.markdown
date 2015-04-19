@@ -81,6 +81,6 @@ constraint, you feel it. I haven't quite figured out how to do this yet.
 There is also this new concept for `springLoaded` that allows you to do specific 
 pressure-sensitive behavior when dragging over a button.
 
-It's been a long time since I worked AppKit, but I've been really wanting to get
-back into it and do something cool. These new gestures have me extremely excited
-about what I could build to support it. 
+It's been a long time since I worked with AppKit, but I've been really wanting
+to get back into it and do something cool. These new gestures have me extremely
+excited about what I could build to support it. 
