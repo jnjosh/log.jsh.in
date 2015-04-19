@@ -73,7 +73,6 @@ with a max of 5.
 
 ![Multi-level Accelerator Button](/assets/images/forcetouch/forcetouch.gif)
 
-
 There are some other ways to take advantage of this new trackpad. Xcode will
 actually produce extra clicks when you are dragging UI elements around in
 Interface Builder. When the item you are dragging reaches a recommended
