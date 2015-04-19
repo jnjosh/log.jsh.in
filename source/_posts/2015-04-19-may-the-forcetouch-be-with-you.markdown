@@ -15,12 +15,13 @@ around with the new Force Touch API to see how it works.
 
 <!-- more -->
 
-Apple's site describing the APIs don't really go into much detail about how to
-use them. However it's pretty straightforward save a few oddities. Maybe they 
-would be more expected had I been spending more time with AppKit.
+Apple's [site describing the APIs](https://developer.apple.com/osx/force-touch/)
+don't really go into much detail about how to use them. However it's pretty
+straightforward save a few oddities. Maybe they would be more expected had I
+been spending more time with AppKit.
 
 I experimented with three different methods for detecting pressure with the new
-APIs. Listening to events on the responder chain and two different types of
+APIs. Responding to events on the responder chain and two different types of
 buttons added in 10.10.3. There are also new methods using NSGestureRecognizer
 and with Drag and Drop. The gesture recognizer seemed pretty easy and close to
 the events I was testing. I haven't figured out the drag and drop capabilities
