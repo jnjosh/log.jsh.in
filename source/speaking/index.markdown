@@ -12,25 +12,37 @@ mind. I had never done this sort of thing before and this was a [huge
 conference](http://au.autodesk.com). After starting the local CocoaHeads chapter and having many
 opportunities to speak about Cocoa development, I started enjoying it much more. That and the
 opportunity to help others learn something or think of something in a different way makes it really
-exciting. I've been invited to speak at a few different conferences like [360iDev
-Min](http://min.360idev.com), [CocoaConf](http://cocoaconf.com), and [iOSDevCamp
+exciting. I've been invited or selected to speak at a few different conferences like [360|iDev](http://360idev.com), [CocoaConf](http://cocoaconf.com), and [iOSDevCamp
 DC](http://iosdevcampdc.com).
 
 If you would like me to speak at your event, please contact via email – <span
 class="yellow-highlight">you can reach me at jnjosh at jnjosh.com, or
 [@jnjosh](http://twitter.com/jnjosh) on twitter</span>.
 
+## How to Lose an iOS Developer in 10 Days
+<div class="postmeta">August 19, 2015 at 360|iDev in Denver, CO – <a href="https://speakerdeck.com/jnjosh/how-to-lose-an-ios-developer-in-10-days">View Slides</a></div>
+
+I've seen a lot of bad things in my career. Ever since taking on a lead role at
+Two Toasters and then Ticketmaster, I've seen all these issues in a new light.
+How do you make a team that people want to stay on? How do you find a team? This
+talk covered all these questions by talking about things you shouldn’t do. How
+do you make an environment that drives iOS Developers away? What are the traits
+that lead to horrible workplaces? In talking about building a horrible
+environment for iOS developers, this session showed what actually makes a great
+environment.
+
+<script async class="speakerdeck-embed" data-id="da5a0ab995a44d4f9cb782a2cb845490" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br />
 
 ## Clean Bill of HealthKit: Making the Most of Health Data
-<div class="postmeta">October 7, 2014 at <a href="http://min.360idev.com">360iDev Min</a> in Greenville, SC — <a href="https://speakerdeck.com/jnjosh/clean-bill-of-healthkit">View Slides</a> or <a href="https://vimeo.com/108835313">Watch Video</a></div>
+<div class="postmeta">October 7, 2014 at <a href="http://min.360idev.com">360|iDev Min</a> in Greenville, SC — <a href="https://speakerdeck.com/jnjosh/clean-bill-of-healthkit">View Slides</a> or <a href="https://vimeo.com/108835313">Watch Video</a></div>
 
 HealthKit is a new framework in iOS 8 that acts as a centralized repository of personal health
 information. It allows you to create, query, and interpret this data about your users so that you
 can provide amazing and personal visualizations or utilities. What does this mean to the user? How
 is their privacy protected? What should you not do with this data? This session will cover the
 basics of using HealthKit and explore what can be done with this awesome new framework.
-
-<figure><iframe src="//player.vimeo.com/video/108835313?byline=0&amp;portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><figcaption>Recording of the talk thanks to 360iDev<figcaption></figure>
 
 ## How I Learned to Quit Worrying and Love Storyboards
 <div class="postmeta">May 22, 2014 at CocoaHeads in Durham, NC – <a href="https://speakerdeck.com/jnjosh/how-i-learned-to-quit-worrying-and-love-storyboards">View Slides</a></div>
