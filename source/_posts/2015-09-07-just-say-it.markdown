@@ -19,7 +19,8 @@ wrong or even something not 100% correct. Maybe it's a good way to think about
 speaking in public or blogging here. I'm not saying I'd want to blog without
 actually researching what I write, but if I miss something maybe that's okay.
 
-Maybe this means my decision not to have comments here was a bad idea. So, I think 
-I'll try it again using Disqus. I think Marcus is right here. What do you think?
+Maybe this means my decision not to have comments here was a bad idea. So, I
+think I'll try having comments again. I think Marcus is right here. What do you
+think?
 
 [1]: http://cocoaconf.com/podcast/13
