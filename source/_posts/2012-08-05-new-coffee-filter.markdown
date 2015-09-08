@@ -2,7 +2,7 @@
 layout: post
 title: "S Filter - A reusable coffee filter for Aeropress"
 date: 2012-08-05 12:13
-comments: true
+comments: false
 categories: [Coffee, Kickstarter]
 external-url: http://www.kickstarter.com/projects/kaffeologie/s-filter-a-reusable-coffee-filter-for-aeropress/posts
 ---

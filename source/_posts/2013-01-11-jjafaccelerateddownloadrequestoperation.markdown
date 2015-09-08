@@ -2,7 +2,7 @@
 layout: post
 title: "JJAFAcceleratedDownloadRequestOperation"
 date: 2013-01-11 22:30
-comments: comments
+comments: false
 categories: [Cocoa, Objective-C, Open-Source]
 external-url: "https://github.com/jnjosh/JJAFAcceleratedDownloadRequestOperation"
 ---

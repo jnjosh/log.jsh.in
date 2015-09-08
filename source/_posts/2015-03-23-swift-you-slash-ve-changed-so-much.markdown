@@ -2,7 +2,7 @@
 layout: post
 title: "Swift, you\'ve changed so much"
 date: 2015-03-23 23:31
-comments: true
+comments: false
 categories: [Cocoa, Swift, Open-Source]
 ---
 

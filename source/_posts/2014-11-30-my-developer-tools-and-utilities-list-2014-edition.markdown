@@ -2,7 +2,7 @@
 layout: post
 title: "My Developer Tools and Utilities List (2014 Edition)"
 date: 2014-11-30 01:20
-comments: true
+comments: false
 categories: [Cocoa, Programming, Tools]
 ---
 
